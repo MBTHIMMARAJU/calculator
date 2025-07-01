@@ -1,0 +1,50 @@
+[
+  {
+    "symbol": "sin",
+    "description": "Sine function",
+    "js_function": "Math.sin",
+    "input_mode": "DEG/RAD"
+  },
+  {
+    "symbol": "cos",
+    "description": "Cosine function",
+    "js_function": "Math.cos",
+    "input_mode": "DEG/RAD"
+  },
+  {
+    "symbol": "tan",
+    "description": "Tangent function",
+    "js_function": "Math.tan",
+    "input_mode": "DEG/RAD"
+  },
+  {
+    "symbol": "log",
+    "description": "Log base 10",
+    "js_function": "Math.log10",
+    "input_mode": "NORMAL"
+  },
+  {
+    "symbol": "ln",
+    "description": "Natural log",
+    "js_function": "Math.log",
+    "input_mode": "NORMAL"
+  },
+  {
+    "symbol": "sqrt",
+    "description": "Square root",
+    "js_function": "Math.sqrt",
+    "input_mode": "NORMAL"
+  },
+  {
+    "symbol": "pi",
+    "description": "Pi constant",
+    "js_function": "Math.PI",
+    "input_mode": "NORMAL"
+  },
+  {
+    "symbol": "e",
+    "description": "Euler's number",
+    "js_function": "Math.E",
+    "input_mode": "NORMAL"
+  }
+] 
